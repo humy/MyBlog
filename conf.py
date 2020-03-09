@@ -3,20 +3,20 @@
 """
 
 # For Maverick
-site_prefix = "/My-Blog/"
+site_prefix = "/MyBlog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-#template = "Kepler"
 template = {
     "name": "Kepler",
-    "type": "local",
-    "path": "../Maverick/Templates/Kepler"
-#}
+    "type": "git",
+    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+    "branch": "latest"
+}
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "humy/My-Blog@gh-pages"
+    "repo": "humy/MyBlog@gh-pages"
 }
 
 # 站点设置
@@ -26,8 +26,8 @@ site_build_date = "2020-03-05T13:33+08:00"
 author = "无名烟"
 email = "humy@sina.com"
 author_homepage = "https://www.humy.top"
-description = "无名，无火，无因"
-key_words = ['Maverick', '无名烟', 'Galileo', 'blog']
+description = ""
+key_words = ['Maverick', '无名烟', 'Kepler', 'blog']
 language = 'zh-CN'
 external_links = [
     {
