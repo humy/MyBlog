@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Maverick-Theme-Kepler",
+    "name": "Maverick-Theme-Prism",
     "type": "local",
-    "path": "./Templates/Maverick-Theme-Kepler/"
+    "path": "../Templates/Maverick-Theme-Prism/"
 }
 
 index_page_size = 5
