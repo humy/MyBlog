@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/MyBlog/</id><title>无名烟的个人博客</title><updated>2020-03-14T11:23:35.085702+08:06</updated><author><name>无名烟</name><email>humy@sina.com</email></author><link href="/MyBlog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/logo.png</logo><subtitle> </subtitle><entry><id>/MyBlog/archives/typography/</id><title>Hello World!</title><updated>2020-03-14T11:23:35.085989+00:00</updated><author><name>AlanDecode</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/MyBlog/</id><title>无名烟的个人博客</title><updated>2020-03-14T11:56:36.441356+08:06</updated><author><name>无名烟</name><email>humy@sina.com</email></author><link href="/MyBlog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/logo.png</logo><subtitle> </subtitle><entry><id>/MyBlog/archives/typography/</id><title>Hello World!</title><updated>2020-03-14T11:56:36.441683+00:00</updated><author><name>AlanDecode</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -50,15 +50,15 @@
 &lt;p&gt;$$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$&lt;/p&gt;
 &lt;h2&gt;Figures&lt;/h2&gt;
 &lt;h3&gt;Single figure&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="836" data-height="450" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" alt="Princess Mononoke" /&gt;&lt;figcaption&gt;Princess Mononoke&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" alt="Princess Mononoke"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Photoset&lt;/h3&gt;
 &lt;div class="photos"&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/IMG_0073.jpeg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/1463017562.jpg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/IMG_0053.jpeg" alt="" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/IMG_0039.jpeg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/IMG_00510.jpeg" alt="" /&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./images/IMG_0005.jpeg" alt="" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/IMG_0073.jpeg" alt=""/&gt;&lt;/figure&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/1463017562.jpg" alt=""/&gt;&lt;/figure&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/IMG_0053.jpeg" alt=""/&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/IMG_0039.jpeg" alt=""/&gt;&lt;/figure&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/IMG_00510.jpeg" alt=""/&gt;&lt;/figure&gt;
+&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="./images/IMG_0005.jpeg" alt=""/&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th&gt;header&lt;/th&gt;
@@ -78,35 +78,35 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/MyBlog/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/MyBlog/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2020-03-14T11:23:35.085959+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
-&lt;figure&gt;&lt;img data-width="5976" data-height="3992" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/23c0e8d13813774001ee077a08584434.jpg" alt="斯里兰卡康提湖" /&gt;&lt;figcaption&gt;斯里兰卡康提湖&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/MyBlog/archives/my-first-awesome-post/" rel="alternate"/><published>2020-03-05T14:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Annual-Meeting-2020/</id><title>宁波铭盛软件召开2020新春晚会</title><updated>2020-03-14T11:23:35.085928+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;p&gt;时光荏苒，岁月更迭。转眼间忙碌的一年已经过去，伴随着激情与挑战，新的一年即将到来。值此辞旧迎新之际，2020年宁波铭盛软件新春晚会暨年终表彰大会于2020年1月10日在宁波威斯丁酒店隆重举行，铭盛全体员工欢聚一堂，共话今昔。
-&lt;figure&gt;&lt;img data-width="822" data-height="514" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/adf27f9491fe385be5a0a057ce280812.png" alt="全体员工合影" /&gt;&lt;figcaption&gt;全体员工合影&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/MyBlog/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/MyBlog/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2020-03-14T11:56:36.441648+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+&lt;figure  style="flex: 74.8496993987976" &gt;&lt;img width="5976" height="3992" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/23c0e8d13813774001ee077a08584434.jpg" alt="斯里兰卡康提湖"/&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/MyBlog/archives/my-first-awesome-post/" rel="alternate"/><published>2020-03-05T14:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Annual-Meeting-2020/</id><title>宁波铭盛软件召开2020新春晚会</title><updated>2020-03-14T11:56:36.441613+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;p&gt;时光荏苒，岁月更迭。转眼间忙碌的一年已经过去，伴随着激情与挑战，新的一年即将到来。值此辞旧迎新之际，2020年宁波铭盛软件新春晚会暨年终表彰大会于2020年1月10日在宁波威斯丁酒店隆重举行，铭盛全体员工欢聚一堂，共话今昔。
+&lt;figure  style="flex: 79.96108949416342" &gt;&lt;img width="822" height="514" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/adf27f9491fe385be5a0a057ce280812.png" alt="全体员工合影"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;年度颁奖&lt;/h2&gt;
 &lt;p&gt;晚会伊始，公司总经理胡敏雁和常务副总罗夕青分别作新年致辞，回顾过往铭盛软件所取得的成绩，展望未来美好前景，并对员工表达了深切的祝愿。两位领导的讲话令人振奋，员工们激情澎湃，满怀憧憬。
-&lt;figure&gt;&lt;img data-width="824" data-height="539" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/c1c34096327146edb0e3b29c61d52f1a.png" alt="胡敏雁总经理发言" /&gt;&lt;figcaption&gt;胡敏雁总经理发言&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="845" data-height="564" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/340dccfcce42fc25fc082a51408f3d46.png" alt="罗夕青常务副总发言" /&gt;&lt;figcaption&gt;罗夕青常务副总发言&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 76.43784786641929" &gt;&lt;img width="824" height="539" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/c1c34096327146edb0e3b29c61d52f1a.png" alt="胡敏雁总经理发言"/&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 74.91134751773049" &gt;&lt;img width="845" height="564" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/340dccfcce42fc25fc082a51408f3d46.png" alt="罗夕青常务副总发言"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;铭盛软件在2019年交出了一份满意的答卷，离不开每一位员工的辛勤耕耘，致辞结束后，常务副总罗夕青主持颁奖典礼，由总经理胡敏雁和常务副总罗夕青共同为优秀员工奖获奖者夜丹鹏和梁海明颁奖。
-&lt;figure&gt;&lt;img data-width="839" data-height="558" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/cc0d3306994a4811b8efc1f52f00d8f0.png" alt="优秀员工奖 梁海明（左2）夜丹鹏（右2）" /&gt;&lt;figcaption&gt;优秀员工奖 梁海明（左2）夜丹鹏（右2）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.17921146953405" &gt;&lt;img width="839" height="558" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/cc0d3306994a4811b8efc1f52f00d8f0.png" alt="优秀员工奖 梁海明（左2）夜丹鹏（右2）"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;由常务副总罗夕青颁发最佳新人奖，获奖者陈凯敏。
-&lt;figure&gt;&lt;img data-width="864" data-height="577" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ec3e46b23859d65d4003c40d374f9d1c.png" alt="最佳新人奖 陈凯敏" /&gt;&lt;figcaption&gt;最佳新人奖 陈凯敏&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 74.87001733102252" &gt;&lt;img width="864" height="577" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ec3e46b23859d65d4003c40d374f9d1c.png" alt="最佳新人奖 陈凯敏"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;才艺表演&lt;/h2&gt;
 &lt;p&gt;晚宴正式开始后，大家各展所长，新员工为大家带来了精彩绝伦的视听盛宴，一首流行音乐《消愁》拉开了晚会的帷幕，希望每位同事能消去一年所有的忧愁。
-&lt;figure&gt;&lt;img data-width="864" data-height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/bfb37c610fab8504364f98503d554ec3.png" alt="新员工表演《消愁》" /&gt;&lt;figcaption&gt;新员工表演《消愁》&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.1304347826087" &gt;&lt;img width="864" height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/bfb37c610fab8504364f98503d554ec3.png" alt="新员工表演《消愁》"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;现场暖意融融，两位领导带领着老员工为大家带来了饱含真情的诗歌朗诵，和一首《明天会更好》，希望铭盛软件的明天会越来越好。在铭盛软件的舞台上，魅力与风采在这一刻光芒毕显，璀璨万分。
-&lt;figure&gt;&lt;img data-width="829" data-height="552" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/8a2634102837376dd6d14a00f88b788d.png" alt="老员工表演《明天会更好》" /&gt;&lt;figcaption&gt;老员工表演《明天会更好》&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.09057971014492" &gt;&lt;img width="829" height="552" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/8a2634102837376dd6d14a00f88b788d.png" alt="老员工表演《明天会更好》"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;抽奖和游戏&lt;/h2&gt;
 &lt;p&gt;伴随着一段段汇演，令人激动万分的时刻到来了，丰厚的奖品令现场每一位都热血沸腾，将活动氛围推向了高潮！
-&lt;figure&gt;&lt;img data-width="806" data-height="535" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ddd4d7253714a4904390adde32232a08.png" alt="三等奖 翁璐明、张永良、徐光徽、黄江龙、张毅厅、夜丹鹏（从左至右）" /&gt;&lt;figcaption&gt;三等奖 翁璐明、张永良、徐光徽、黄江龙、张毅厅、夜丹鹏（从左至右）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="864" data-height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/2e48ce56f474225f4da21859b0aee197.png" alt="二等奖 梁海明、葛婉琼、章林哲（从左至右）" /&gt;&lt;figcaption&gt;二等奖 梁海明、葛婉琼、章林哲（从左至右）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.32710280373831" &gt;&lt;img width="806" height="535" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ddd4d7253714a4904390adde32232a08.png" alt="三等奖 翁璐明、张永良、徐光徽、黄江龙、张毅厅、夜丹鹏（从左至右）"/&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 75.1304347826087" &gt;&lt;img width="864" height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/2e48ce56f474225f4da21859b0aee197.png" alt="二等奖 梁海明、葛婉琼、章林哲（从左至右）"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;随着三等奖和二等奖的抽取，中间还穿插着小游戏环节，小游戏《弹瓶盖》和《看眼色》，给大家带来了欢声笑语，同时也让同事之间彼此的心更加贴近。
-&lt;figure&gt;&lt;img data-width="864" data-height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/52e1ab08abcfdd6e5aad7f2f9d13a171.png" alt="小游戏" /&gt;&lt;figcaption&gt;小游戏&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.1304347826087" &gt;&lt;img width="864" height="575" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/52e1ab08abcfdd6e5aad7f2f9d13a171.png" alt="小游戏"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;随后，现场气氛到达了沸点。由常务副总罗夕青抽取了当晚的一等奖，一等奖由蒋宁宁获得。
-&lt;figure&gt;&lt;img data-width="874" data-height="581" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/8a955b3265416271142eaac2623e909a.png" alt="一等奖 蒋宁宁" /&gt;&lt;figcaption&gt;一等奖 蒋宁宁&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.21514629948365" &gt;&lt;img width="874" height="581" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/8a955b3265416271142eaac2623e909a.png" alt="一等奖 蒋宁宁"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;最后总经理胡敏雁抽取了特等奖，特等奖由徐尚有幸运地获得。
-&lt;figure&gt;&lt;img data-width="1200" data-height="798" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/405fc8e2c14ee08741328ed4ea685113.jpg" alt="特等奖 徐尚有" /&gt;&lt;figcaption&gt;特等奖 徐尚有&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure  style="flex: 75.18796992481202" &gt;&lt;img width="1200" height="798" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/405fc8e2c14ee08741328ed4ea685113.jpg" alt="特等奖 徐尚有"/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;整个年会在和谐、温馨、激情、欢乐的气氛中圆满落下帷幕，回首2019，我们齐心协力，努力拼搏；展望2020，我们目标一致，信心满满。新年晚宴上全体同仁为新的一年举杯同庆，共同期待铭盛软件的明天会更加辉煌！&lt;/p&gt;
-</content><link href="/MyBlog/archives/Annual-Meeting-2020/" rel="alternate"/><published>2020-03-05T16:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Set-SSH-for-Git/</id><title>Git使用SSH协议的配置</title><updated>2020-03-14T11:23:35.085896+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;h2&gt;本地生成SSH公钥&lt;/h2&gt;
+</content><link href="/MyBlog/archives/Annual-Meeting-2020/" rel="alternate"/><published>2020-03-05T16:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Set-SSH-for-Git/</id><title>Git使用SSH协议的配置</title><updated>2020-03-14T11:56:36.441577+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;h2&gt;本地生成SSH公钥&lt;/h2&gt;
 &lt;p&gt;Git使用SSH协议，需要配置SSH公钥（SSH Keys）方可使用。生成SSH公钥在本地电脑上操作。以Mac系统为例，操作如下：&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;cd ~/.ssh
@@ -143,7 +143,7 @@ Attempts to ssh to github&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;如果出现以下文字，说明设置成功了。&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Hi xxx! You've successfully authenticated, but GitHub does not # provide shell access.&lt;/code&gt;&lt;/pre&gt;
-</content><link href="/MyBlog/archives/Set-SSH-for-Git/" rel="alternate"/><published>2020-03-05T20:45:00+08:06</published></entry><entry><id>/MyBlog/archives/Solution-of-Slow-in-Git/</id><title>解决Git下载慢的问题</title><updated>2020-03-14T11:23:35.085859+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;ol&gt;
+</content><link href="/MyBlog/archives/Set-SSH-for-Git/" rel="alternate"/><published>2020-03-05T20:45:00+08:06</published></entry><entry><id>/MyBlog/archives/Solution-of-Slow-in-Git/</id><title>解决Git下载慢的问题</title><updated>2020-03-14T11:56:36.441536+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;ol&gt;
 &lt;li&gt;在码云中新建一个仓库&lt;/li&gt;
 &lt;li&gt;选择“导入已有仓库“，在地址栏输入Git的仓库地址&lt;/li&gt;
 &lt;li&gt;按“新建”，等待从Git导入完成&lt;/li&gt;
@@ -156,8 +156,8 @@ Attempts to ssh to github&lt;/code&gt;&lt;/pre&gt;
 &lt;li&gt;码云的仓库设置中，需要去设置默认的分支是哪个（比如：source）&lt;/li&gt;
 &lt;li&gt;git上更新后，下次下载前，要在码云上先强制同步一次。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="2090" data-height="1038" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/59558b5d91113d81b46ce97daedbc7b8.png" alt="码云的界面" /&gt;&lt;figcaption&gt;码云的界面&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/MyBlog/archives/Solution-of-Slow-in-Git/" rel="alternate"/><published>2020-03-05T22:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Git-order/</id><title>Git常用命令整理</title><updated>2020-03-14T11:23:35.085790+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;h2&gt;本地仓库管理&lt;/h2&gt;
+&lt;p&gt;&lt;figure  style="flex: 100.67437379576108" &gt;&lt;img width="2090" height="1038" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/59558b5d91113d81b46ce97daedbc7b8.png" alt="码云的界面"/&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/MyBlog/archives/Solution-of-Slow-in-Git/" rel="alternate"/><published>2020-03-05T22:00:00+08:06</published></entry><entry><id>/MyBlog/archives/Git-order/</id><title>Git常用命令整理</title><updated>2020-03-14T11:56:36.441454+00:00</updated><author><name>无名烟</name><email>humy@sina.com</email><uri>https://www.humy.top</uri></author><content>&lt;h2&gt;本地仓库管理&lt;/h2&gt;
 &lt;p&gt;git init   初始化本地仓库&lt;/p&gt;
 &lt;p&gt;git add &lt;file&gt;    本地仓库添加文件&lt;/p&gt;
 &lt;p&gt;git commit -m “log content”    提交修改，并添加修改记录&lt;/p&gt;
