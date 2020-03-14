@@ -9,16 +9,17 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
-<<<<<<< HEAD
-    "type": "git",
-    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
-    "branch": "latest"
-=======
+    "name": "Prism",
     "type": "local",
-    "path": "../Maverick/Templates/Kepler"
->>>>>>> d132d1bc6d7759007420740ed473038fc969219b
+    "path": "../Templates/Prism"
 }
+
+index_page_size = 5
+archives_page_size = 10
+locale = "Asia/Shanghai"
+category_by_folder = False
+fetch_remote_imgs = True
+
 enable_jsdelivr = {
     "enabled": True,
     "repo": "humy/MyBlog@gh-pages"
@@ -27,13 +28,14 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "无名烟的个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2020-03-05T13:33+08:00"
+site_build_date = "2020-03-15T14:30+08:00"
 author = "无名烟"
 email = "humy@sina.com"
 author_homepage = "https://www.humy.top"
 description = ""
 key_words = ['Maverick', '无名烟', 'Kepler', 'blog']
 language = 'zh-CN'
+
 external_links = [
     {
         "name": "无名·烟",
@@ -65,11 +67,6 @@ nav = [
 ]
 
 social_links = [
- ##   {
- ##       "name": "Twitter",
- ##       "url": "https://twitter.com/AlanDecode",
- ##       "icon": "gi gi-twitter"
- ##   },
     {
         "name": "GitHub",
         "url": "https://github.com/humy",
@@ -81,6 +78,18 @@ social_links = [
         "icon": "gi gi-weibo"
     }
 ]
+
+valine = {
+    "enable": True,
+    "appId": "vCqjtUlqwGDLvu7RLHM8HFik-gzGzoHsz",
+    "appKey": "XbhG90ewd7thakxgvv1zRhO3",
+    "el": '#vcomments',
+    "avatar": "identicon",
+    "notify": "true",
+    "visitor": "true",
+    "recordIP": "true",
+    "placeholder": " "
+}
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
