@@ -5,28 +5,28 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/MyBlog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/MyBlog/archives/XianglanXi/</loc>
+    <loc>/archives/XianglanXi/</loc>
     <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/MyBlog/archives/Zhongshan-Old-Road/</loc>
+    <loc>/archives/Zhongshan-Old-Road/</loc>
     <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/MyBlog/archives/GaoShan-Ji/</loc>
+    <loc>/archives/GaoShan-Ji/</loc>
     <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
