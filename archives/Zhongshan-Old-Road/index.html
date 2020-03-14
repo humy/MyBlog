@@ -19,23 +19,23 @@
     <script>
         var ExSearchConfig = {
             root: "",
-            api: "https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/8de2482497f0d4d08a62b63aa78139aa.json"
+            api: "https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/b55183b085bb5c21fb69caf6d00b2ce9.json"
         }
 
     </script>
     
-<title>Git使用SSH协议的配置 - 无途</title>
-<meta name="author" content="无名烟" />
-<meta name="description" content="Git使用SSH协议，需要配置SSH公钥（SSH Keys）方可使用" />
-<meta property="og:title" content="Git使用SSH协议的配置 - 无途" />
-<meta property="og:description" content="Git使用SSH协议，需要配置SSH公钥（SSH Keys）方可使用" />
+<title>日本中山古驿道 - 无途</title>
+<meta name="author" content="Nail" />
+<meta name="description" content="中山古驿道是江户时代连接东京和京都的一条驿道。" />
+<meta property="og:title" content="日本中山古驿道 - 无途" />
+<meta property="og:description" content="中山古驿道是江户时代连接东京和京都的一条驿道。" />
 <meta property="og:site_name" content="无途" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/MyBlog/archives/Set-SSH-for-Git/" />
+<meta property="og:url" content="/MyBlog/archives/Zhongshan-Old-Road/" />
 <meta property="og:image" content="" />
-<meta property="article:published_time" content="2020-03-05T20:45:00-00.00" />
-<meta name="twitter:title" content="Git使用SSH协议的配置 - 无途" />
-<meta name="twitter:description" content="Git使用SSH协议，需要配置SSH公钥（SSH Keys）方可使用" />
+<meta property="article:published_time" content="2020-03-14T22:15:00-00.00" />
+<meta name="twitter:title" content="日本中山古驿道 - 无途" />
+<meta name="twitter:description" content="中山古驿道是江户时代连接东京和京都的一条驿道。" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:image" content="" />
 
@@ -58,60 +58,38 @@
 <main>
     <section class="prism-section row" id="prism__content">
         <article class="yue col-md-8 offset-md-2">
-            <h1 class="prism-post-title">Git使用SSH协议的配置</h1>
+            <h1 class="prism-post-title">日本中山古驿道</h1>
             <div class="prism-post-time">
                 <time class="text-uppercase">
-                    March 05 2020
+                    March 14 2020
                 </time>
             </div>
             <div class="prism-content-body">
-                <h2>本地生成SSH公钥</h2>
-<p>Git使用SSH协议，需要配置SSH公钥（SSH Keys）方可使用。生成SSH公钥在本地电脑上操作。以Mac系统为例，操作如下：</p>
-
-<pre><code>cd ~/.ssh
-ls</code></pre>
-<p>查看目录下有没有id_rsa和id_rsa.pub，有 .pub 后缀的文件就是公钥，另一个文件则是密钥。
-假如没有这些文件，甚至连 .ssh 目录都没有，可以用 ssh-keygen 来创建。</p>
-
-<pre><code>$ ssh -keygen -t rsa -C "your_email@youremail.com"
-Creates a new ssh key using the provided email # Generating public/private rsa key pair.
-Enter file in which to save the key (/home/you/.ssh/id_rsa):</code></pre>
-<p>直接按Enter就行。然后，会提示你输入密码，建议输一个。</p>
-
-<pre><code>Enter same passphrase again: [Type passphrase again]</code></pre>
-<p>完了之后，大概是这样：</p>
-
-<pre><code>Your public key has been saved in /home/you/.ssh/id_rsa.pub.
-The key fingerprint is: # 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@youremail.com</code></pre>
-<h2>添加公钥到Git仓库</h2>
-<ol>
-<li><p>添加公钥到Git仓库，首先查看公钥：</p>
-
-<pre><code>$ cat ~/.ssh/id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0X6L1zLL4VHuvGb8aJH3ippTozmReSUzgntvk434aJ/v7kOdJ/MTyBlWXFCR+HAo3FXRitBqxiX1nKhXpHAZsMciLq8vR3c8E7CjZN733f5AL8uEYJA+YZevY5UCvEg+umT7PHghKYaJwaCxV7sjYP7Z6V79OMCEAGDNXC26IBMdMgOluQjp6o6j2KAdtRBdCDS/QIU5THQDxJ9lBXjk1fiq9tITo/aXBvjZeD+gH/Apkh/0GbO8VQLiYYmNfqqAHHeXdltORn8N7C9lOa/UW3KM7QdXo6J0GFlBVQeTE/IGqhMS5PMln3 admin@admin-PC</code></pre>
-</li>
-<li><p>登陆github帐户。点击头像，然后 Settings -&gt; 左栏点击 SSH and GPG keys -&gt; 点击 New SSH key</p>
-</li>
-<li>然后复制上面的公钥内容（所有字符），粘贴进“Key”文本域内。 title域，随便起个名字。</li>
-<li>点击 Add key。</li>
-</ol>
-<p>完成以后，验证下这个key是不是正常工作：</p>
-
-<pre><code>$ ssh -T git@github.com
-Attempts to ssh to github</code></pre>
-<p>如果出现以下文字，说明设置成功了。</p>
-
-<pre><code>Hi xxx! You've successfully authenticated, but GitHub does not # provide shell access.</code></pre>
+                <p>中山古驿道是江户时代连接东京和京都的一条驿道，马笼宿和妻笼宿分别是驿道上第43和42号驿站。根据古貌修复的马笼宿和妻笼宿建筑，以及保留的两地之间7.7公里长的古驿道，吸引了世界各地的游客前来体验。2019年4月15日，我来到马笼宿，准备第二天从马笼宿出发，徒步中山古驿道道去到妻笼宿。
+<figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/e40d299ac5f246ff099eceebdea72798.jpg" alt="马笼宿中山古驿道起点"/></figure></p>
+<p>下午3点多到达马笼宿，我先四周逛了一圈，地方不大，非常安静。这里大多是西方人入住，没有碰到一个中国人。
+<figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/bfbf8da54135d993be0123ce1406e696.jpg" alt="马笼宿的邮局"/></figure></p>
+<p><figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/79a26a35943736391b82bd17655436a2.jpg" alt="马笼宿的民宿"/></figure></p>
+<p>傍晚，太阳逐渐下山，夕阳斜照在马笼宿的民宿上，传统日本建筑静静地在开始暗淡下来的天色中，灯光点起，仿佛置身动漫里。
+<figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/2108feb62b4c0ed4e0721ea2bdeea4a4.jpg" alt="夕阳下的传统民宿"/></figure></p>
+<p>无意中转过一条小道，发现有几株樱花还在盛开。一名摄影人支着三脚架在拍摄，夕阳在她的头顶打出一轮亮光。
+<figure  style="flex: 81.52173913043478" ><img width="750" height="460" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/5f3b57bd7dd702c15d1f9f3069af9eac.jpg" alt="拍摄樱花的摄影人"/></figure></p>
+<p><figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/9ad40a3c8253c49ce1897924f4a61c03.jpg" alt="围墙外的樱花"/></figure></p>
+<p>第二天早上8点，我从马笼宿出发，古驿道穿过树林，并不难走，但有较长的上坡路段，背着相机行李还是稍有点累。中途有一个休息站，可以免费喝茶和吃小零食，不仅补充体力，还可和休息的老外交流聊天。一路上没有第二个中国游客，全部是西方人。
+<figure class="vertical-figure" style="flex: 28.132033008252062" ><img width="750" height="1333" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/f64cae05c859a749d26c13653713a241.jpg" alt="古驿道的风景"/></figure></p>
+<p><figure  style="flex: 88.86255924170617" ><img width="750" height="422" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/4b4a240d6663e55b3f4a029747348275.jpg" alt="樱花和传统民宅"/></figure></p>
+<p>一路走走停停，历经3个小时终于到达妻笼宿，妻笼宿保留了很多当年的建筑原貌，可以看到当时的建筑风格和设计结构。
+<figure  style="flex: 50.0" ><img width="750" height="750" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/363295c85ee5bf875ead2ba75cd45f26.jpg" alt="妻笼宿的传统房屋建筑"/></figure></p>
 
             </div>
         </article>
         <div class="prism-post-meta col-md-8 offset-md-2">
-    <span>无名烟</span>
+    <span>Nail</span>
     
     <span>/</span>
     <span>
-        <a class="category no-link" href="/MyBlog/category/技术资料/" target="_self">
-        技术资料
+        <a class="category no-link" href="/MyBlog/category/旅途点滴/" target="_self">
+        旅途点滴
         </a>
     </span>
     
@@ -119,17 +97,17 @@ Attempts to ssh to github</code></pre>
     <span>/</span>
     
     <span class="prism-tag">
-        <a class="no-link" href="/MyBlog/tag/Git/" target="_self">#Git</a>
+        <a class="no-link" href="/MyBlog/tag/日本/" target="_self">#日本</a>
     </span>
     
     <span class="prism-tag">
-        <a class="no-link" href="/MyBlog/tag/SSH/" target="_self">#SSH</a>
+        <a class="no-link" href="/MyBlog/tag/中山古道/" target="_self">#中山古道</a>
     </span>
     
     
     
     <span>/</span>
-    <span class="leancloud_visitors" id="/archives/Set-SSH-for-Git/" data-flag-title="Git使用SSH协议的配置"><span class="leancloud-visitors-count"></span> Views</span>
+    <span class="leancloud_visitors" id="/archives/Zhongshan-Old-Road/" data-flag-title="日本中山古驿道"><span class="leancloud-visitors-count"></span> Views</span>
     
 </div>
     </section>
@@ -138,13 +116,13 @@ Attempts to ssh to github</code></pre>
 <section id="prism__pagination" class="prism-pagination" class="col-md-8 offset-md-2">
     <ul>
         
-        <li class="next">
-            <a class="no-link" href="/MyBlog/archives/Solution-of-Slow-in-Git/" target="_self" title="解决Git下载慢的问题"><i class="fa fa-chevron-left" aria-hidden="true"></i>更新</a>
+        <li class="next text-muted">
+            <span title="这是最新的文章"><i class="fa fa-chevron-left" aria-hidden="true"></i>更新</span>
         </li>
         
         
-        <li class="prev text-muted">
-            <span title="这是最旧的文章">更旧<i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+        <li class="prev">
+            <a class="no-link" href="/MyBlog/archives/GaoShan-Ji/" target="_self" title="春之高山祭">更旧<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
         </li>
         
     </ul>
@@ -180,11 +158,6 @@ Attempts to ssh to github</code></pre>
 
                     <section id="prism__external_links">
                         <ul>
-                            
-                            <li>
-                                <a class="no-link" target="_blank" href="https://github.com/AlanDecode/Maverick" rel="noopener noreferrer nofollow">Maverick</a>：🏄‍ Go My Own Way.
-                                <span>|</span>
-                            </li>
                             
                         </ul>
                     </section>

@@ -12,29 +12,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/MyBlog/archives/Git-order/</loc>
+    <loc>/MyBlog/archives/Zhongshan-Old-Road/</loc>
     <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/MyBlog/archives/Git-order/</loc>
-    <lastmod>2020-03-06</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/MyBlog/archives/Solution-of-Slow-in-Git/</loc>
-    <lastmod>2020-03-05</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/MyBlog/archives/Set-SSH-for-Git/</loc>
-    <lastmod>2020-03-05</lastmod>
+    <loc>/MyBlog/archives/GaoShan-Ji/</loc>
+    <lastmod>2020-03-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
