@@ -11,20 +11,21 @@ archives_page_size = 20
 
 #template = "Kepler"
 
+'''
 template = {
     "name": "Prism",
     "type": "git",
     "url": "https://github.com/humy/Maverick-Theme-Prism.git",
     "branch": "deploy"
 }
+'''
 
-'''
 template = {
-    "name": "Kepler",
+    "name": "Prism",
     "type": "local",
-    "path": "../Templates/Kepler/"
+    "path": "../Templates/Prism/"
 }
-'''
+
 
 index_page_size = 5
 archives_page_size = 10
