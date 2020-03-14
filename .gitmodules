@@ -4,8 +4,8 @@
 [submodule "Templates/Maverick-Theme-Prism"]
 	path = Templates/Maverick-Theme-Prism
 	url = https://github.com/humy/Maverick-Theme-Prism.git
-[submodule "Templates/Maverick-Theme-Galileo"]
-	path = Templates/Maverick-Theme-Galileo
+[submodule "Templates/Galileo"]
+	path = Templates/Galileo
 	url = https://github.com/humy/Maverick-Theme-Galileo.git
 [submodule "Templates/Maverick-Theme-Kepler"]
 	path = Templates/Maverick-Theme-Kepler
