@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Maverick-Theme-Galileo",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Templates/Maverick-Theme-Galileo/"
+    "path": "../Templates/Galileo/"
 }
 
 index_page_size = 5
