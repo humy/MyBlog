@@ -1,12 +1,12 @@
 [submodule "Maverick"]
 	path = Maverick
-	url = https://gitee.com/huminyan/Maverick.git
+	url = https://github.com/humy/Maverick.git
 [submodule "Templates/Maverick-Theme-Prism"]
 	path = Templates/Maverick-Theme-Prism
-	url = https://gitee.com/huminyan/Maverick-Theme-Prism.git
+	url = https://github.com/humy/Maverick-Theme-Prism.git
 [submodule "Templates/Maverick-Theme-Galileo"]
 	path = Templates/Maverick-Theme-Galileo
-	url = https://gitee.com/huminyan/Maverick-Theme-Galileo.git
+	url = https://github.com/humy/Maverick-Theme-Galileo.git
 [submodule "Templates/Maverick-Theme-Kepler"]
 	path = Templates/Maverick-Theme-Kepler
-	url = https://gitee.com/huminyan/Maverick-Theme-Kepler.git
+	url = https://github.com/humy/Maverick-Theme-Kepler.git
