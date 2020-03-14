@@ -11,7 +11,7 @@ archives_page_size = 20
 template = {
     "name": "Prism",
     "type": "local",
-    "path": "../Templates/Prism"
+    "path": "../Templates/Prism/"
 }
 
 index_page_size = 5
@@ -33,7 +33,7 @@ author = "无名烟"
 email = "humy@sina.com"
 author_homepage = "https://www.humy.top"
 description = ""
-key_words = ['Maverick', '无名烟', 'Kepler', 'blog']
+key_words = ['Maverick', '无名烟', 'Prism', 'blog']
 language = 'zh-CN'
 
 external_links = [
