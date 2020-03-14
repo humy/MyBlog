@@ -23,7 +23,7 @@ template = {
 template = {
     "name": "Prism",
     "type": "local",
-    "path": "../Templates/Prism/"
+    "path": "../Templates/Prism"
 }
 
 index_page_size = 5
