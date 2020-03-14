@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 春之高山祭
-slug: Git-order
+slug: GaoShan-Ji
 date: 2020-3-14 21:15
 status: publish
 author: Nail

@@ -49,18 +49,18 @@ key_words = ['无途', 'Nail', 'Prism', 'blog']
 language = 'zh-CN'
 
 
-external_links = [
+#external_links = [
 #    {
 #        "name": "无名·烟",
 #        "url": "https://www.humy.top",
 #        "brief": "无名烟的主页。"
 #    },
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    }
-]
+#    {
+#        "name": "Maverick",
+#        "url": "https://github.com/AlanDecode/Maverick",
+#        "brief": "🏄‍ Go My Own Way."
+#    }
+#]
 
 nav = [
     {
