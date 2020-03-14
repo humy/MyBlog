@@ -8,11 +8,17 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Templates/Galileo/"
-}
+
+template = "Kepler"
+
+#template = {
+#    "name": "Galileo",
+#    "type": "local",
+#    "path": "../Templates/Galileo/"
+#    "type": "url"
+#    "path": "https://github.com/humy/Maverick-Theme-Galileo.git"
+#    "branch":
+#}
 
 index_page_size = 5
 archives_page_size = 10
