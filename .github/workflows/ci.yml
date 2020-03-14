@@ -29,10 +29,10 @@ jobs:
         pip3 install -r prod_req.txt
 
     # Get build cache
-    - uses: actions/checkout@v2
-      with:
-        ref: 'cache'
-        path: './build_cache'
+    #- uses: actions/checkout@v2
+    #  with:
+    #    ref: 'cache'
+    #    path: './build_cache'
 
     - name: Build site
       run: |
