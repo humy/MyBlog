@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
+
+<url>
+    <loc>/MyBlog/about/</loc>
+    <lastmod>2020-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/Git-order/</loc>
+    <lastmod>2020-03-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/Solution-of-Slow-in-Git/</loc>
+    <lastmod>2020-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/Set-SSH-for-Git/</loc>
+    <lastmod>2020-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/Annual-Meeting-2020/</loc>
+    <lastmod>2020-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/my-first-awesome-post/</loc>
+    <lastmod>2020-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/MyBlog/archives/typography/</loc>
+    <lastmod>2019-12-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+</urlset>
