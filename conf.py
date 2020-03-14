@@ -9,16 +9,16 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 
-template = "Kepler"
+#template = "Kepler"
 
-#template = {
-#    "name": "Galileo",
-#    "type": "local",
-#    "path": "../Templates/Galileo/"
+template = {
+    "name": "Prism",
+    "type": "local",
+    "path": "../Templates/Prism/"
 #    "type": "url"
 #    "path": "https://github.com/humy/Maverick-Theme-Galileo.git"
 #    "branch":
-#}
+}
 
 index_page_size = 5
 archives_page_size = 10
@@ -42,18 +42,20 @@ description = ""
 key_words = ['Maverick', '无名烟', 'Prism', 'blog']
 language = 'zh-CN'
 
+
 external_links = [
-    {
-        "name": "无名·烟",
-        "url": "https://www.humy.top",
-        "brief": "无名烟的主页。"
-    },
+#    {
+#        "name": "无名·烟",
+#        "url": "https://www.humy.top",
+#        "brief": "无名烟的主页。"
+#    },
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
     }
 ]
+
 nav = [
     {
         "name": "首页",
