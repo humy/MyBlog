@@ -38,14 +38,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "烟途"
+site_name = "无途"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-03-15T14:30+08:00"
 author = "Nail"
 email = "humy@sina.com"
 author_homepage = "https://github.com/humy"
 description = "用另一只眼睛看风景"
-key_words = ['烟途', 'Nail', 'Prism', 'blog']
+key_words = ['无途', 'Nail', 'Prism', 'blog']
 language = 'zh-CN'
 
 
