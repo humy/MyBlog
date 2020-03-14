@@ -10,3 +10,4 @@
 [submodule "Templates/Prism"]
 	path = Templates/Prism
 	url = https://github.com/humy/Maverick-Theme-Prism.git
+	branch = deploy

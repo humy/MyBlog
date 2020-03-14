@@ -26,7 +26,6 @@ template = {
     "path": "../Templates/Prism/"
 }
 
-
 index_page_size = 5
 archives_page_size = 10
 locale = "Asia/Shanghai"
