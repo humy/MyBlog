@@ -11,7 +11,7 @@ archives_page_size = 20
 template = {
     "name": "Maverick-Theme-Kepler",
     "type": "local",
-    "path": "../Templates/Maverick-Theme-Kepler/"
+    "path": "./Templates/Maverick-Theme-Kepler/"
 }
 
 index_page_size = 5
