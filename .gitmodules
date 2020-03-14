@@ -1,12 +1,12 @@
 [submodule "Maverick"]
 	path = Maverick
 	url = https://github.com/humy/Maverick.git
-[submodule "Templates/Maverick-Theme-Prism"]
-	path = Templates/Maverick-Theme-Prism
-	url = https://github.com/humy/Maverick-Theme-Prism.git
 [submodule "Templates/Galileo"]
 	path = Templates/Galileo
 	url = https://github.com/humy/Maverick-Theme-Galileo.git
-[submodule "Templates/Maverick-Theme-Kepler"]
-	path = Templates/Maverick-Theme-Kepler
+[submodule "Templates/Kepler"]
+	path = Templates/Kepler
 	url = https://github.com/humy/Maverick-Theme-Kepler.git
+[submodule "Templates/Prism"]
+	path = Templates/Prism
+	url = https://github.com/humy/Maverick-Theme-Prism.git
