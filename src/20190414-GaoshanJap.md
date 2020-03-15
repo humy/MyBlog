@@ -50,5 +50,10 @@ excerpt: 2019年4月14-15日，一年一度的日本春之高山祭在岐阜县�
 
 
 ##交通Tips
-从名古屋中部国际机场到高山市，可以买联票，到岐阜县换乘大巴。联票的时刻表查询和预约，![点此直达](https://www.nouhibus.co.jp/other/centrair-to-takayama_zh/)
-从高山市到名古屋市，可以乘坐浓飞巴士。时刻表查询预约：![点此直达](https://www.highwaybus.com/gp/reservation/rsvPlanList?mode=search#busPlanList)
+###名古屋 - 高山市
+从名古屋中部国际机场到高山市，可以买联票，到岐阜县换乘大巴。联票的时刻表查询和预约，点击：
+https://www.nouhibus.co.jp/other/centrair-to-takayama_zh/
+
+###高山市 - 名古屋 
+从高山市到名古屋市，可以乘坐浓飞巴士。时刻表查询预约：点击：
+https://www.highwaybus.com/gp/reservation/rsvPlanList?mode=search#busPlanList
