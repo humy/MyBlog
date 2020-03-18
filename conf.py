@@ -95,8 +95,8 @@ social_links = [
 
 valine = {
     "enable": True,
-    "appId": "vCqjtUlqwGDLvu7RLHM8HFik-gzGzoHsz",
-    "appKey": "XbhG90ewd7thakxgvv1zRhO3",
+    "appId": "10dBztJMr5qTYA7fDXBWf5eT-9Nh9j0Va",
+    "appKey": "jBHP6cyaxlGrcAbMJwjo942X",
     "el": '#vcomments',
     "avatar": "identicon",
     "notify": "true",
@@ -110,6 +110,8 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
-footer_addon = ''
+#footer_addon = r'''
+#<a href="备案网站链接" target="_blank" rel="noopener noreferrer nofollow">你的备案号</a>
+#‘''
 
 body_addon = ''
