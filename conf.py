@@ -111,7 +111,7 @@ head_addon = r'''
 '''
       
 footer_addon = r'''
-<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33020502000490" target="_blank" rel="noopener noreferrer nofollow">浙公网安备 33020502000490号</a>
+<a href="https://blog.humy.top" target="_blank" rel="noopener noreferrer nofollow">浙公网安备 33020502000490号</a>
 '''
 
 body_addon = ''
