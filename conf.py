@@ -82,9 +82,9 @@ nav = [
 
 social_links = [
     {
-        "name": "GitHub",
-        "url": "https://github.com/humy",
-        "icon": "gi gi-github"
+        "name": "NoWords",
+        "url": "http://home.humy.top:8180",
+        "icon": "gi gi-NoWords"
     },
     {
         "name": "Weibo",
