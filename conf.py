@@ -84,12 +84,12 @@ social_links = [
     {
         "name": "NoWords",
         "url": "http://home.humy.top:8180",
-        "icon": "gi gi-NoWords"
+        "icon": "fa fa-superscript"
     },
     {
         "name": "Weibo",
         "url": "https://weibo.com/u/1400312611",
-        "icon": "gi gi-weibo"
+        "icon": "fa fa-weibo"
     }
 ]
 
