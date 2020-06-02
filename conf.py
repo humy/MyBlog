@@ -9,17 +9,6 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 
-#template = "Kepler"
-
-'''
-template = {
-    "name": "Prism",
-    "type": "git",
-    "url": "https://github.com/humy/Maverick-Theme-Prism.git",
-    "branch": "deploy"
-}
-'''
-
 template = {
     "name": "Prism",
     "type": "local",
@@ -48,20 +37,6 @@ description = "用另一只眼睛看风景"
 key_words = ['无途', 'Nail', 'Prism', 'blog']
 language = 'zh-CN'
 
-
-#external_links = [
-#    {
-#        "name": "无名·烟",
-#        "url": "https://www.humy.top",
-#        "brief": "无名烟的主页。"
-#    },
-#    {
-#        "name": "Maverick",
-#        "url": "https://github.com/AlanDecode/Maverick",
-#        "brief": "🏄‍ Go My Own Way."
-#    }
-#]
-
 nav = [
     {
         "name": "首页",
@@ -85,11 +60,6 @@ social_links = [
         "name": "NoWords",
         "url": "http://home.humy.top:8180",
         "icon": "fa fa-superscript"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/u/1400312611",
-        "icon": "fa fa-weibo"
     }
 ]
 
