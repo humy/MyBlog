@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>无途</title><link>/</link><description>用另一只眼睛看风景</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/logo.png</url><title>无途</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 02 Jun 2020 05:02:51 +0806</lastBuildDate><pubDate>Tue, 02 Jun 2020 05:02:51 +0806</pubDate><item><title>安昌古镇</title><link>/archives/anchang-town/</link><description>&lt;p&gt;绍兴的安昌古镇不止去了一次，2月又去了一次，古镇的腊味都挂起来了，年味也重了。&lt;/p&gt;
-&lt;p&gt;&lt;figure  style="flex: 74.85380116959064" &gt;&lt;img width="1024" height="684" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ba7f015c866fd4a18badfb04e2b7ab35.jpg" alt="敲糯米糖的老人"/&gt;&lt;figcaption&gt;敲糯米糖的老人&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure  style="flex: 74.85380116959064" &gt;&lt;img width="1024" height="684" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/096150b1370e7ff524c96f7dd0767d71.jpg" alt="腊味"/&gt;&lt;figcaption&gt;腊味&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure  style="flex: 74.85380116959064" &gt;&lt;img width="1024" height="684" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/39acf7226eb655089ebd0c421ce9c61c.jpg" alt="腊味"/&gt;&lt;figcaption&gt;腊味&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure  style="flex: 74.85380116959064" &gt;&lt;img width="1024" height="684" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/a62c9c333ef10f7ab9b6610529ee53a8.jpg" alt="腊味"/&gt;&lt;figcaption&gt;腊味&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;交通Tips&lt;/h2&gt;
-&lt;p&gt;自驾开车从柯桥高速收费站下，按导航行驶即可。&lt;/p&gt;
-&lt;hr&gt;
-</description><author>humy@sina.com (Nail)</author><guid isPermaLink="true">/archives/anchang-town/</guid><pubDate>Sat, 10 Feb 2018 23:59:00 +0806</pubDate></item><item><title>新加坡掠影</title><link>/archives/Singapre-2018/</link><description>&lt;p&gt;2018年2月9日，我们来到美丽的新加坡，在一周时间里，住在居民社区的公寓楼，出门坐地铁，游玩了克拉码头、金沙酒店、圣淘沙岛、牛车水、国立大学等著名景点，干净整洁的城市给我们留下了深刻的印象。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>无途</title><link>/</link><description>用另一只眼睛看风景</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/logo.png</url><title>无途</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 14 Feb 2021 04:19:20 +0806</lastBuildDate><pubDate>Sun, 14 Feb 2021 04:19:20 +0806</pubDate><item><title>新加坡掠影</title><link>/archives/Singapre-2018/</link><description>&lt;p&gt;2018年2月9日，我们来到美丽的新加坡，在一周时间里，住在居民社区的公寓楼，出门坐地铁，游玩了克拉码头、金沙酒店、圣淘沙岛、牛车水、国立大学等著名景点，干净整洁的城市给我们留下了深刻的印象。&lt;/p&gt;
 &lt;p&gt;&lt;figure  style="flex: 75.0733137829912" &gt;&lt;img width="1024" height="682" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/7dab9158528f5fc0b90436dd9f85631d.jpg" alt="金沙酒店的空中花园俯瞰"/&gt;&lt;figcaption&gt;金沙酒店的空中花园俯瞰&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure  style="flex: 75.0733137829912" &gt;&lt;img width="1024" height="682" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/5aeb0edd7dbc1b1f2d0b87d145e0cf97.jpg" alt="克拉码头的傍晚"/&gt;&lt;figcaption&gt;克拉码头的傍晚&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure  style="flex: 74.85380116959064" &gt;&lt;img width="1024" height="684" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/afd195d577e3ce32d00aa36e74add3f3.jpg" alt="牛车水地铁站附近"/&gt;&lt;figcaption&gt;牛车水地铁站附近&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -219,4 +210,34 @@
 &lt;p&gt;慢船：象浓度13号，到达渔山2个半小时，满载70人，票价来回220/人，单程110/人&lt;/p&gt;
 &lt;p&gt;快船：渔光曲3号 ，到达渔山80分钟，满载98人，票价来回316/人，单程158/人&lt;/p&gt;
 &lt;hr&gt;
-</description><author>humy@sina.com (Nail)</author><guid isPermaLink="true">/archives/Yushan Island/</guid><pubDate>Sun, 24 May 2020 23:59:00 +0806</pubDate></item></channel></rss>
+</description><author>humy@sina.com (Nail)</author><guid isPermaLink="true">/archives/Yushan Island/</guid><pubDate>Sun, 24 May 2020 23:59:00 +0806</pubDate></item><item><title>杭州湾国家湿地公园</title><link>/archives/Hangzhou Bay Wetland/</link><description>&lt;p&gt;辛丑年大年初二，因疫情无法去外地旅游，只能在附近游玩。早上9时许，我们驱车去往杭州湾国家湿地公园。距上次去杭州湾湿地公园已有6-7年了，故地重游，想看看冬季的湿地公园是一番什么景色。&lt;/p&gt;
+&lt;p&gt;据湿地公园官网介绍，杭州湾国家湿地公园位于杭州湾跨海大桥西侧，总面积63.8平方公里，区域属于中国八大盐碱湿地之一庵东滩涂，是世界级观鸟胜地。湿地鸟类资源丰富，是候鸟从西伯利亚迁徙至澳大利亚的重要中转站，目前已记录鸟类220余种，隶属于18目45科，包括近危鸟种青头潜鸭、罗纹鸭、黑尾塍鹬、白腰杓鹬、大杓鹬和震旦鸦雀，脆弱鸟种卷羽鹈鹕、遗鸥和黄胸鹀；还有被列入国家重点保护野生动物名录的普通鵟、红隼、环颈雉和小杓鹬。（杭州湾国家湿地公园官网：&lt;a href="http://www.hzwsdzx.com"&gt;http://www.hzwsdzx.com&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;我们驱车一小时左右到达湿地公园，天气阴，气温不低，适宜户外走动。进入园区后，首先需搭乘渡船进入到里面。游客并不很多，以本地特别是慈溪的游客为主。
+&lt;figure  style="flex: 88.89438943894389" &gt;&lt;img width="5387" height="3030" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/318b7710e803ca7380d0f80fff8279e9.jpg" alt="园区的渡船"/&gt;&lt;figcaption&gt;园区的渡船&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;经过10分钟左右的渡船，我们来到园区里面。首先看到的是麋鹿区，一群麋鹿在水中争相探头吃游客投喂的树叶，还有一些在远处的土堆上悠闲地漫步。
+&lt;figure  style="flex: 74.84507042253522" &gt;&lt;img width="5314" height="3550" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/e7934fa7d9ebb9041fc3d91ac30917f2.jpg" alt="水中的麋鹿"/&gt;&lt;figcaption&gt;水中的麋鹿&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;看过麋鹿，徒步继续往园区内走去。阴沉的天气，黄色的植被，感觉就是冬季的萧条。如果有阳光和花草就更加漂亮了。园区较大，没有人群拥挤的感觉，我们摘了口罩，呼吸着新鲜的空气。
+&lt;figure  style="flex: 88.87566924449732" &gt;&lt;img width="5976" height="3362" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/d529f6177adf19805889fad91b0b6a06.jpg" alt="宣誓亭"/&gt;&lt;figcaption&gt;宣誓亭&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 88.87566924449732" &gt;&lt;img width="5976" height="3362" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/147e4a9d4105834b34dca4a0183c1bed.jpg" alt="大水车"/&gt;&lt;figcaption&gt;大水车&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 74.84507042253522" &gt;&lt;img width="5314" height="3550" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/e7934fa7d9ebb9041fc3d91ac30917f2.jpg" alt="过石桥的孩子们"/&gt;&lt;figcaption&gt;过石桥的孩子们&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;湿地现有一些天鹅在此过冬，有白天鹅、黑天鹅、黑颈天鹤等。
+&lt;figure  style="flex: 50.0" &gt;&lt;img width="3788" height="3788" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/59e87039be6da96c4ce34a7d0c5dec8b.jpg" alt="白天鹅"/&gt;&lt;figcaption&gt;白天鹅&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 50.0" &gt;&lt;img width="3992" height="3992" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/ebe988e3cf806de4067852e19e6bde1a.jpg" alt="黑颈天鹅"/&gt;&lt;figcaption&gt;黑颈天鹅&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 50.0" &gt;&lt;img width="3990" height="3990" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/81c763a754b88584e2a75dc5de777752.jpg" alt="黑颈天鹅"/&gt;&lt;figcaption&gt;黑颈天鹅&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 50.0" &gt;&lt;img width="2942" height="2942" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/25cdfbec58c13fb8b1088d051a5661b0.jpg" alt="黑天鹅母子"/&gt;&lt;figcaption&gt;黑天鹅母子&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 50.0" &gt;&lt;img width="2982" height="2982" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/dccedfc745b874225a9cf265c4929f95.jpg" alt="黑天鹅母子"/&gt;&lt;figcaption&gt;黑天鹅母子&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;继续往园区里走，看到了一池的鹈鹕，在水中争食。
+&lt;figure  style="flex: 50.0" &gt;&lt;img width="2904" height="2904" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/15da1ea7e879263afaffb1fe713b0073.jpg" alt="争食的鹈鹕"/&gt;&lt;figcaption&gt;争食的鹈鹕&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;旁边是一个小园子，里面有不知名的鸟，又长又大的鸟喙，金黄色的冠，吸引很多孩子的关注。
+&lt;figure  style="flex: 50.0" &gt;&lt;img width="1718" height="1718" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/7122b80d88cb789ce0b3f3ee6d9274a6.jpg" alt="不知名的鸟"/&gt;&lt;figcaption&gt;不知名的鸟&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;湿地公园还有很多动物，包括羊驼、环尾猴等，最后参观了候鸟博物馆。等春夏季节，再来湿地公园，应该能看到更多的花草和鸟类。&lt;/p&gt;
+&lt;p&gt;从湿地公园出来，我们上高速去了杭州湾大桥中间的海天一洲观景台。因天气阴阴的，远处的海天已经混为一体，看不到海平面，只有朦胧的雾气一片。
+&lt;figure class="vertical-figure" style="flex: 37.5" &gt;&lt;img width="3024" height="4032" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/5b863a9b5178c307f0d64939059e0cda.jpg" alt="海天一洲的塔"/&gt;&lt;figcaption&gt;海天一洲的塔&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 88.87566924449732" &gt;&lt;img width="5976" height="3362" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/d57a534ee8b222d97c3c10103e56d246.jpg" alt="弧形的杭州湾跨海大桥"/&gt;&lt;figcaption&gt;弧形的杭州湾跨海大桥&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 88.87051039697542" &gt;&lt;img width="3761" height="2116" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/41674ca1f251f6e519b55880259f08e9.jpg" alt="海天一洲入口"/&gt;&lt;figcaption&gt;海天一洲入口&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure  style="flex: 88.88391524917935" &gt;&lt;img width="5957" height="3351" src="https://cdn.jsdelivr.net/gh/humy/MyBlog@gh-pages/archives/assets/032d36560441a01fe98b01bd308c8d58.jpg" alt="杭州湾大桥"/&gt;&lt;figcaption&gt;杭州湾大桥&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;交通Tips&lt;/h2&gt;
+&lt;p&gt;自驾从沈海高速的庵东出口下，按路标行驶10分钟左右就到。&lt;/p&gt;
+&lt;hr&gt;
+</description><author>humy@sina.com (Nail)</author><guid isPermaLink="true">/archives/Hangzhou Bay Wetland/</guid><pubDate>Sat, 13 Feb 2021 23:59:00 +0806</pubDate></item></channel></rss>
