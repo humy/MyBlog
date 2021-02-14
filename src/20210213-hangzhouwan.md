@@ -29,7 +29,7 @@ excerpt: 2021年2月13日，杭州湾国家湿地公园
 
 ![大水车](./images/20210213-hangzhouwan/hzw-02.jpg "大水车")
 
-![过石桥的孩子们](./images/20210213-hangzhouwan/hzw-04.jpg "过石桥的孩子们")
+![过石桥的孩子们](./images/20210213-hangzhouwan/hzw-03.jpg "过石桥的孩子们")
 
 湿地现有一些天鹅在此过冬，有白天鹅、黑天鹅、黑颈天鹤等。
 ![白天鹅](./images/20210213-hangzhouwan/hzw-05.jpg "白天鹅")
