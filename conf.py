@@ -81,7 +81,7 @@ head_addon = r'''
 '''
       
 footer_addon = r'''
-<a href="http://beian.mps.gov.cn" target="_blank" rel="noopener noreferrer nofollow">浙公网安备 33020502000490号</a>
+<a href="http://beian.mps.gov.cn" target="_blank" rel="noopener noreferrer nofollow">浙公网安备 33020502000490号</a> 
 '''
 
 body_addon = ''
