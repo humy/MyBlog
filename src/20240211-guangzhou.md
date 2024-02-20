@@ -61,7 +61,7 @@ excerpt: 2024年2月11日，龙年春节广州旅游
 ![鲜花扇面](./images/20240211-guangzhou/guangzhou-12.jpg "鲜花扇面")
 
 
-从陈家祠出来已3点多，直奔省心大教堂。教堂前又是人挤人，排队分批进入教堂。等了10多分钟，排队进入，里面也全是人，稍微拍了几张照片，就出来了。
+从陈家祠出来已3点多，直奔圣心大教堂。教堂前又是人挤人，需分批进入教堂。等了10多分钟方才进入，里面也全是人，稍微拍了几张照片，就出来了。
 
 ![圣心大教堂](./images/20240211-guangzhou/guangzhou-40.jpg "圣心大教堂")
 
@@ -82,28 +82,28 @@ excerpt: 2024年2月11日，龙年春节广州旅游
 
 ![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-43.jpg "南越王博物馆展品")
 
-![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-44.jpg "南越王博物馆展品")
-
-![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-45.jpg "南越王博物馆展品")
-
-![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-46.jpg "南越王博物馆展品")
-
 ![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-47.jpg "南越王博物馆展品")
 
 ![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-48.jpg "南越王博物馆展品")
 
 ![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-49.jpg "南越王博物馆展品")
 
+![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-44.jpg "南越王博物馆展品")
+
+![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-45.jpg "南越王博物馆展品")
+
+![南越王博物馆展品](./images/20240211-guangzhou/guangzhou-46.jpg "南越王博物馆展品")
+
 
 参观完博物馆已是中午，午餐吃了一家潮汕牛肉火锅，回酒店休息。傍晚出发，去越秀公园看花灯展。
-
-![越秀公园花灯](./images/20240211-guangzhou/guangzhou-13.jpg "越秀公园花灯")
-
-![越秀公园花灯](./images/20240211-guangzhou/guangzhou-14.jpg "越秀公园花灯")
 
 ![越秀公园花灯](./images/20240211-guangzhou/guangzhou-15.jpg "越秀公园花灯")
 
 ![越秀公园花灯](./images/20240211-guangzhou/guangzhou-52.jpg "越秀公园花灯")
+
+![越秀公园花灯](./images/20240211-guangzhou/guangzhou-13.jpg "越秀公园花灯")
+
+![越秀公园花灯](./images/20240211-guangzhou/guangzhou-14.jpg "越秀公园花灯")
 
 ![越秀公园花灯](./images/20240211-guangzhou/guangzhou-53.jpg "越秀公园花灯")
 
@@ -114,7 +114,7 @@ excerpt: 2024年2月11日，龙年春节广州旅游
 
 
 <h2>D5 云台花园</h2>
-第五天行程比较轻松，上午去云台花园观赏郁金香展。温暖的阳光，漂亮的鲜花，新鲜的空气，令人驻足流连。回程前的最后一站，又一次让我感受到花城的美丽。
+第五天行程比较轻松，上午去云台花园观赏郁金香展，下午就返程了。云台花园有温暖的阳光，漂亮的鲜花，新鲜的空气，令人驻足流连。回程前的最后一站，又一次让我感受到花城的美丽。
 
 ![云台花园花展](./images/20240211-guangzhou/guangzhou-16.jpg "云台花园花展")
 
