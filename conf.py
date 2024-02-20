@@ -55,16 +55,16 @@ nav = [
     }
 ]
 
-social_links = [
-    {
-        "name": "NoWords",
-        "url": "http://home.humy.top:8180",
-        "icon": "fa fa-superscript"
-    }
-]
+#social_links = [
+#    {
+#        "name": "NoWords",
+#        "url": "http://home.humy.top:8180",
+#        "icon": "fa fa-superscript"
+#    }
+#]
 
 valine = {
-    "enable": True,
+    "enable": False,
     "appId": "10dBztJMr5qTYA7fDXBWf5eT-9Nh9j0Va",
     "appKey": "jBHP6cyaxlGrcAbMJwjo942X",
     "el": '#vcomments',
