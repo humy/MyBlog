@@ -1,2 +1,4 @@
-个人博客，用另一只眼看世界
-采用 Maverick 生成，用 Prism 模板
+# MyBlog
+无名烟的个人博客
+这是一个利用Maverick自动生成博客的站点。
+采用Maverick，Prism模版。
