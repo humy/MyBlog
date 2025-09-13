@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/Views of 2025 Ham Fair/</loc>
+    <lastmod>2024-09-13</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/Views of Guangzhou/</loc>
     <lastmod>2024-02-15</lastmod>
     <changefreq>always</changefreq>
