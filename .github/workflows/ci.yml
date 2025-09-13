@@ -42,7 +42,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: docker://peaceiris/gh-pages:v2
       env:
-        PERSONAL_TOKEN: "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"    #  ${{ secrets.PERSONAL_TOKEN }}
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./dist
       with:
