@@ -12,7 +12,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/Views of 2025 Ham Fair/</loc>
+    <loc>/archives/Views of Hachinohe (2)/</loc>
+    <lastmod>2025-08-25</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/Views of Hachinohe (1)/</loc>
     <lastmod>2025-08-24</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
