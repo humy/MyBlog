@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 香岚溪之枫
+title: 周游日本 - 香岚溪之枫
 slug: XianglanXi
 date: 2019-11-28 22:45
 status: publish
