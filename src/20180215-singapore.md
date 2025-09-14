@@ -4,12 +4,12 @@ title: 新加坡掠影
 slug: Singapre-2018
 date: 2018-2-15 23:59
 status: publish
-author: Nail
+author: Humyee
 categories: 
   - 旅途点滴
 tags: 
-  - 日本
-  - 高山祭
+  - 新加坡
+
 excerpt: 在新加坡的一周时光
 ---
 
