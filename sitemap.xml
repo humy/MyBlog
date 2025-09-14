@@ -12,14 +12,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/Views of Hachinohe (2)/</loc>
+    <loc>/archives/Views of Aomori-2/</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/Views of Aomori-1/</loc>
+    <lastmod>2025-08-26</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/Views of Hachinohe-2/</loc>
     <lastmod>2025-08-25</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/Views of Hachinohe (1)/</loc>
+    <loc>/archives/Views of Hachinohe-1/</loc>
     <lastmod>2025-08-24</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
