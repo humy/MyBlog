@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/New year in Jixi/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/Views of Wuyuan/</loc>
     <lastmod>2025-11-28</lastmod>
     <changefreq>always</changefreq>
